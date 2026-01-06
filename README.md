@@ -1,3 +1,19 @@
+# DevCom — Frontend
+
+Simple Next.js + TypeScript + Tailwind frontend for a developer community site.
+
+Features:
+- Jobs: create, list, and filter jobs (stored in `localStorage`).
+- Posts: simple post creation and listing (stored in `localStorage`).
+
+Run locally:
+
+```bash
+npm install
+npm run dev
+```
+
+Open http://localhost:3000 and use the `Jobs` and `Posts` menu.
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
